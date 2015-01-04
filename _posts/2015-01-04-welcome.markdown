@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-01-04 11:30:00
+categories: uncategorized
+---
+
+Welcome to the latest incarnation of my blog! This blog is going to be mainly focused on technical topics, usually related to Rails or Ruby in some fashion.
+
+Figured New Year's was a good time to start this up. Can't wait to start posting!
